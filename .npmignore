@@ -1,0 +1,14 @@
+.*
+*.js
+examples
+test
+lib
+lib/**/*.ejs
+
+!bin
+!build
+!build/lib
+!build/**/*.js
+
+!lib/commands/*.js
+!lib/protocol/*.js
